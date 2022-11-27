@@ -1,0 +1,31 @@
+.book{
+    position: relative;
+    margin-top: 150px;
+    
+}
+.bookpara{
+    position: relative;
+    margin-top: 150px;
+}
+
+.background{
+    background-image: url(./img/registration.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.card3{
+    position: relative;
+    margin-top: 300px;
+}
+.card2{
+    position: relative;
+    margin-top: 300px;
+}
+.card1{
+    position: relative;
+    margin-top: 300px;
+}
+.lastbg{
+    background-color: rgb(79, 75, 75);
+    background-size: cover;
+}
